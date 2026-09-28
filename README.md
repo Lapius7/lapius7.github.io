@@ -1,7 +1,7 @@
 # Lapius7's GitHub Pages
 
 Lapius7 の個人用ポートフォリオ・ポータルサイトのリポジトリです。
-このリポジトリのコードは、[lapius7.github.io](https://lapius7.github.io) にて公開されています。s
+このリポジトリのコードは、[lapius7.github.io](https://lapius7.github.io) にて公開されています。
 
 ---
 
