@@ -31,7 +31,7 @@
 
 ## 概要
 
-このリポジトリには、[lapius7.github.io](https://lapius7.github.io) で公開しているポートフォリオ・ポータルサイトのコードがあります。ページには [GitHub](https://github.com/Lapius7) と [X](https://x.com/Lapius7) へのリンクがあります。
+このリポジトリには[lapius7.github.io](https://lapius7.github.io) で公開しているポートフォリオ・ポータルサイトのコードがあります。ページには [GitHub](https://github.com/Lapius7) と [X](https://x.com/Lapius7) へのリンクがあります。
 
 ## 問い合わせ先
 
